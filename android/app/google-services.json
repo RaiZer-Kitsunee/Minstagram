@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118496215443",
+    "project_id": "cinstagram-f351f",
+    "storage_bucket": "cinstagram-f351f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118496215443:android:88fe74cf8572591d36a866",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118496215443-0m3vrdluqrvlmgq9bvu26nrfuhjcb3rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clone",
+            "certificate_hash": "11f2785a2247958137a136c92ee6c6327252efc1"
+          }
+        },
+        {
+          "client_id": "118496215443-7j79na2ja4agdenpg3usqn4iadnnjopa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2mh5hkTbM1oNRFDcwpzT5HQSW0W6N7wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118496215443-7j79na2ja4agdenpg3usqn4iadnnjopa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
